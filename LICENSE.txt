@@ -1,0 +1,83 @@
+BIEM LICENSE
+
+Copyright © 2026 Biem. All Rights Reserved.
+
+1. Forking, Porting and Backporting
+
+You are allowed to fork, port, backport, modify, or otherwise
+develop derivative versions of software released under this license
+for personal or private use.
+
+However, you MUST obtain explicit permission from the copyright
+holder before publishing, distributing, or otherwise making any
+derivative version publicly available.
+
+2. Redistribution
+
+You may not redistribute, re-upload, mirror, publish, or otherwise
+make the original software publicly available outside of the
+permissions expressly granted by this license.
+
+3. Modified Versions
+
+Any fork, port, backport, or other modified version may not be
+published, distributed, re-uploaded, or otherwise made publicly
+available without explicit permission from the copyright holder.
+
+4. Modpacks
+
+You are allowed to include and use the original, unmodified
+software in modpacks without obtaining permission from the
+copyright holder.
+
+Credit is appreciated but is not required when including the
+software in a modpack.
+
+This permission applies only to the original, unmodified software.
+It does not grant permission to publish, distribute, or include
+unauthorized modified versions, forks, ports, or backports.
+
+5. Source Code
+
+You may view, study, and modify the source code for personal or
+private use and for the purpose of creating forks, ports,
+backports, or other derivative works, subject to the restrictions
+of this license.
+
+6. Permission
+
+The copyright holder may grant additional permissions or exceptions
+on a case-by-case basis.
+
+Any such permission must be explicitly granted by the copyright
+holder.
+
+7. Attribution
+
+When permitted to publish or distribute a modified version, you
+must retain the original copyright notice and clearly indicate
+that the version has been modified.
+
+Attribution is not required for ordinary use of the software in a
+modpack, although credit to the original author is appreciated.
+
+8. No Warranty
+
+The software is provided "AS IS", without warranty of any kind,
+express or implied. The copyright holder shall not be liable for
+any claim, damages, or other liability arising from the use of the
+software.
+
+9. Enforcement
+
+Unauthorized publication, distribution, or redistribution of the
+software or derivative versions constitutes a violation of this
+license.
+
+The copyright holder reserves all rights and all remedies available
+under applicable law.
+
+10. Copyright
+
+All rights not expressly granted by this license are reserved by
+the copyright holder.
